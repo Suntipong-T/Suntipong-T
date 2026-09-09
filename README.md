@@ -24,7 +24,7 @@ QGIS · Leaflet · GeoJSON · GeoPandas · Shapely · Fiona · PyProj · RTree �
 
 
 ### 📹 CCTV & Monitoring
-Hikvision · HikCentral · IP Cameras · PTZ Cameras · PoE Infrastructure · Network Monitoring
+Hikvision · HikCentral · IP Cameras · PTZ Cameras · Network Monitoring
 
 ---
 
