@@ -22,8 +22,6 @@ ESP32 · ESP32-CAM · AI Thinker ESP32-CAM · GPS / Neo-6M · TinyGPS++ · MQTT 
 ### 🗺️ GIS & Geospatial
 QGIS · Leaflet · GeoJSON · GeoPandas · Shapely · Fiona · PyProj · RTree · NetCDF · Python
 
-### 🌐 Network & Infrastructure
-Ruijie / Reyee · Ruijie Cloud · VLAN · PoE / PoE+ · SFP · ERPS · Teltonika · 4G LTE · VPN · ZeroTier · Synology NAS · Cloudflare
 
 ### 📹 CCTV & Monitoring
 Hikvision · HikCentral · IP Cameras · PTZ Cameras · PoE Infrastructure · Network Monitoring
@@ -59,7 +57,7 @@ A few of the systems I've built and maintained:
 - CCTV & IP Camera Systems
 - Cloud Infrastructure
 - System Integration
-- Web & API Security
+
 
 ## 🔭 Currently Exploring
 
