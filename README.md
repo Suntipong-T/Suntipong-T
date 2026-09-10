@@ -142,6 +142,8 @@ A full-stack tutoring platform with a CMS-managed admin panel, custom JWT auth, 
 <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Suntipong-T&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Suntipong-T&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
+<img src="https://streak-stats.demolab.com/?user=Suntipong-T&theme=tokyonight&hide_border=true&background=0D1117" />
+
 
 </div>
 
